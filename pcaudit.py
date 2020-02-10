@@ -12,7 +12,7 @@ Last modified: 2020-02-09
 from sysinfo import sysinfo
 
 def main():
-    #TODO: Determine Operating system
+    #TODO: Determine operating system
 
 
     #Collect platform information
@@ -21,11 +21,11 @@ def main():
     #Collect processor information
     cpu_info = sysinfo.get_cpu_info()
     
-    #TODO: Collect hardware informatino
+    #TODO: Collect hardware information
     
     #TODO: Collect user account information
     
-    #TODO: Collect installed program info
+    #TODO: Collect installed program information
     
 
     #TODO: Output results
